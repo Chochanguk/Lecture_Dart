@@ -1,3 +1,4 @@
+//  Lectures for Variables in Dart */
 void main() {
   print("hello world");
   /*dart의 5가지 변수
