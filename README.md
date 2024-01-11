@@ -1,6 +1,4 @@
-# Lecture_Dart ReadMe
-
-## Dart의 기본 문법 공부 Repo입니다.
+# Lecture_Dart ReadMe(Dart 기본 문법 공부)
 
 ## 학습 목차
 <string>1. Variables </string>
