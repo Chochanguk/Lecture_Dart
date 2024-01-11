@@ -1,4 +1,4 @@
-# Lecture_Dart ReadMe(Dart 기본 문법 공부)
+# Lecture_Dart(Dart 기본 문법 공부)
 
 ## 학습 목차
 <string>1. Variables </string>
