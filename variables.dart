@@ -48,7 +48,4 @@ void main() {
   const API_KEY = '21321dsafsaf';
   const max_allowed_price = 123123;
     */
-  /*6. int,double,String 등등 java와 비슷
-  double notInt = 123.3;
-  */
 }
