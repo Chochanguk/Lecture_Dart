@@ -11,14 +11,13 @@ String sayHello_string(String name) {
   return "Hello $name, nice to meet you";
 }
 
-//3.fat arrow syntax: 곧바로 return 하는 것.(간단한 것은 이거 쓰는게 좋다.)
+//3.★★★ fat arrow syntax: 곧바로 return 하는 것.(간단한 것은 이거 쓰는게 좋다.)
 String sayHello_arrow(String name) => "Hello $name, nice to meet you";
 num plus(num a, num b) => a + b;
 */
 
-/*2.Named Parameters: 함수 인자 입력시 함수 순서 정의와 상관없이 입력가능.
+/*2..★★★ Named Parameters.★★★ : 함수 인자 입력시 함수 순서 정의와 상관없이 입력가능.
 //1. 기존 자바 문법이랑 동일한 파라미터(함수 사용시 순서에 맞게 입력)
-import 'dart:html';
 
 String sayHelloOld(String name, int age, String country) {
   return "Hello $name,you are $age, and you come from $country";
@@ -39,7 +38,7 @@ String capitalizeName(String? name) =>
     name?.toUpperCase() ?? 'null이므로 우측이 return'; //??: 왼쪽이 NULL이면 오른쪽, 아니면 왼쪽
  */
 
-/*5.Typedef(object)://자료형을 정의 해준다. */
+/*5.Typedef(object):자료형을 정의 해준다. */
 typedef ListOfIns = List<int>;
 //List<int> 자료형을 리턴하는 함수임.
 ListOfIns reverseListOfNumbers(ListOfIns list) {
