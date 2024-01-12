@@ -3,7 +3,7 @@
 
 ## 학습 목차
 <div>
-  ![스크린샷(18)](https://github.com/Chochanguk/Lecture_Dart/assets/119058637/ddaf3373-78d0-48b1-bd20-7caac568704d)
+![스크린샷(18)](https://github.com/Chochanguk/Lecture_Dart/assets/119058637/ddaf3373-78d0-48b1-bd20-7caac568704d)
 ![스크린샷(22)](https://github.com/Chochanguk/Lecture_Dart/assets/119058637/2d8d96ad-a1ee-4de8-9c7a-81f3acd0879b)
 </div>
 
