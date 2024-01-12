@@ -87,7 +87,6 @@ void main() {
   //2. required가 없는 경우
   var redPlayer = Player.createRedPlayer('sunwoo', 21);
   */
-
   /*5.API를 예로 들면서 하는 Reacp */
   var apiData = [
     {
